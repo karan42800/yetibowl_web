@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KARAN</Machine>
+    <WindowsUser>jxgk</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>879ee048-c1fb-4db4-bae3-438acfbcce92</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\css\stylesheet.css">
+      <PackagePath>css\stylesheet.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\game.html">
+      <PackagePath>game.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\entity.js">
+      <PackagePath>GameLibrary\entity.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\frame.js">
+      <PackagePath>GameLibrary\frame.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\game.js">
+      <PackagePath>GameLibrary\game.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\hiker.js">
+      <PackagePath>GameLibrary\hiker.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\hikermanager.js">
+      <PackagePath>GameLibrary\hikermanager.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\input.js">
+      <PackagePath>GameLibrary\input.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\map.js">
+      <PackagePath>GameLibrary\map.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\mountain.js">
+      <PackagePath>GameLibrary\mountain.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\snowball.js">
+      <PackagePath>GameLibrary\snowball.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\soundmanager.js">
+      <PackagePath>GameLibrary\soundmanager.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\ui.js">
+      <PackagePath>GameLibrary\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\GameLibrary\yeti.js">
+      <PackagePath>GameLibrary\yeti.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\js\scaling.js">
+      <PackagePath>js\scaling.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\default_face.png">
+      <PackagePath>media\default_face.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\gamemountain_lores.png">
+      <PackagePath>media\gamemountain_lores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\gameover_lores.png">
+      <PackagePath>media\gameover_lores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\gamesky_lores.png">
+      <PackagePath>media\gamesky_lores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\gameui_lores.png">
+      <PackagePath>media\gameui_lores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\gameyetipassive_lores.png">
+      <PackagePath>media\gameyetipassive_lores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\gameyetirage_lores.png">
+      <PackagePath>media\gameyetirage_lores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\gameyetithrow_lores.png">
+      <PackagePath>media\gameyetithrow_lores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\hikers_lores.png">
+      <PackagePath>media\hikers_lores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\logos\150x150.png">
+      <PackagePath>media\logos\150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\logos\30x30.png">
+      <PackagePath>media\logos\30x30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\logos\310x150.png">
+      <PackagePath>media\logos\310x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\logos\50x50.png">
+      <PackagePath>media\logos\50x50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\logos\splashscreen_yeti.png">
+      <PackagePath>media\logos\splashscreen_yeti.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\logos\yeti_logo.png">
+      <PackagePath>media\logos\yeti_logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\snowball.png">
+      <PackagePath>media\snowball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\Sounds\atompop.mp3">
+      <PackagePath>media\Sounds\atompop.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\media\Sounds\impact_b.mp3">
+      <PackagePath>media\Sounds\impact_b.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jxgk\Documents\Visual Studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

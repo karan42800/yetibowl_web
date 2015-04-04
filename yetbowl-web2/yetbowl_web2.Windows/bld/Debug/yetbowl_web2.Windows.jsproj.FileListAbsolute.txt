@@ -1,0 +1,15 @@
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bin\Debug\AppxManifest.xml
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bin\Debug\yetbowl_web2.Windows.build.appxrecipe
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\priconfig.xml
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\layout.resfiles
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\resources.resfiles
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\pri.resfiles
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\qualifiers.txt
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\jxgk\documents\visual studio 2015\Projects\yetbowl-web2\yetbowl-web2\yetbowl_web2.Windows\bld\Debug\ProjectArchitectures.txt

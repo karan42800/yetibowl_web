@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<!--
+Copyright (c) Microsoft Corporation
+
+ 
+
+All rights reserved.
+
+ 
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0   
+
+
+THIS CODE IS PROVIDED *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABLITY OR NON-INFRINGEMENT.  
+
+
+See the Apache Version 2.0 License for specific language governing permissions and limitations under the License. 
+-->
+
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+<head>
+    <meta charset="utf-8" />
+    <title>YetiBowl</title>
+
+    <!-- YetiBowl references -->
+    <link href="css/stylesheet.css" rel="stylesheet" />
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:IsMyDocuments msdt:dt="string">1</mso:IsMyDocuments>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+<body>
+    <div id="container"> <!-- All Game related dom elements should be within container for proper scaling -->
+        <canvas id="game_canvas" width="768" height="1366"></canvas>
+        <div id="hikerkills">0</div>
+        <div id="snowball_btn"  onmousedown="game.system.dominput.snowball(true);" onmouseup="game.system.dominput.snowball(false);" onmouseout="game.system.dominput.snowball(false);"></div>
+        <div id="touch_ui">
+            <div id="left_btn"  onmousedown="game.system.dominput.left_btn(true);" onmouseup="game.system.dominput.left_btn(false);" onmouseout="game.system.dominput.left_btn(false);"></div>
+            <div id="right_btn" onmousedown="game.system.dominput.right_btn(true);" onmouseup="game.system.dominput.right_btn(false);" onmouseout="game.system.dominput.right_btn(false);"></div>
+        </div>
+        <div id="gameover_ui" class="hidden">
+            <div id="gameover_restart" onclick="game.system.dominput.restart();"></div>
+            <div id="gameover_menu" onclick="game.system.dominput.exit();"></div>
+        </div>
+    </div>
+   
+    <!-- Load in Required Game Scripts -->
+    <script type="text/javascript" src="GameLibrary/game.js"></script> 
+        <script type="text/javascript" src="js/scaling.js"></script> 
+        <script type="text/javascript" src="GameLibrary/frame.js"></script>
+        <script type="text/javascript" src="GameLibrary/entity.js"></script>
+        <script type="text/javascript" src="GameLibrary/map.js"></script>
+        <script type="text/javascript" src="GameLibrary/mountain.js"></script>
+        <script type="text/javascript" src="GameLibrary/snowball.js"></script>  
+        <script type="text/javascript" src="GameLibrary/input.js"></script>
+        <script type="text/javascript" src="GameLibrary/yeti.js"></script> 
+        <script type="text/javascript" src="GameLibrary/ui.js"></script>
+        <script type="text/javascript" src="GameLibrary/hiker.js"></script> 
+        <script type="text/javascript" src="GameLibrary/hikermanager.js"></script> 
+        <script type="text/javascript" src="GameLibrary/soundmanager.js"></script> 
+</body>
+</html>
